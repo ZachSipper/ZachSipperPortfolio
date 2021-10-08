@@ -5,6 +5,8 @@ Showcase of work completed by Zach Sipper
 
 Following is a list of directories and a description of their contents:
 
+### [Evolutionary Computation](EvolutionaryCOmputation/)
+
 ### Operating System
 A collection of c/c++ writen to 
 
