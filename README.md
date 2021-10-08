@@ -1,4 +1,4 @@
-# ZachSipperPortfolio
+# Zach Sipper Portfolio
 Showcase of work completed by Zach Sipper
 
 # Directories
