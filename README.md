@@ -9,5 +9,5 @@ Following is a list of directories and a description of their contents:
 This is a project completed with three other classmates in the Fall Semesyter of 2020.
 Utilizes Python, and Genetic Algorithms
 
-### Operating System
-A collection of c/c++ writen to 
+### [Operating System](Operating System/)
+A collection of files writen in c to implement OS functionality
