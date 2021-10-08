@@ -5,7 +5,8 @@ Showcase of work completed by Zach Sipper
 
 Following is a list of directories and a description of their contents:
 
-### [Evolutionary Computation](https://github.com/rtmcardle/BoidEvolution)
+### [Boid Evolution](https://github.com/rtmcardle/BoidEvolution)
+This is a project completed with three other classmates in the Fall Semesyter of 2020.
 
 ### Operating System
 A collection of c/c++ writen to 
