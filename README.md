@@ -14,6 +14,6 @@ Utilizes Python, and Genetic Algorithms
 Spring 2021
 A collection of files writen in c to implement OS functionality
 
-### [iTunes Gallery]()
+### [iTunes Gallery](iTunesGallery/)
 Spring 2018
 Utilizing the iTunes search API, this program parses the json search results and displays album art from a keyword search to a GUI implemented using javaFX.
