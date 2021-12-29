@@ -12,7 +12,7 @@ Utilizes Python, and Genetic Algorithms
 
 ### [Operating System](OperatingSystem/)
 Spring 2021
-A collection of files writen in c to implement OS functionality
+A collection of projects/files writen in c to implement OS functionality
 
 ### [iTunes Gallery](https://github.com/ZachSipper/iTunesGallery)
 Spring 2018
