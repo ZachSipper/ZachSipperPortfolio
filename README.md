@@ -10,7 +10,7 @@ Fall 2020
 This is a project completed with three other classmates in the Fall Semesyter of 2020.
 Utilizes Python, and Genetic Algorithms
 
-### [Operating System](OperatingSystem/)
+### [Operating System](https://github.com/ZachSipper/OperatingSystem)
 Spring 2021
 A collection of projects/files writen in C to implement OS functionality
 
